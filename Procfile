@@ -1,0 +1,1 @@
+web: /languagetool.sh
